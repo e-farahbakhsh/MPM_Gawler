@@ -6,4 +6,4 @@ This repository provides supplementary materials for the paper entitled 'Machine
 
 ### References
 
-Farahbakhsh, E., Maughan, J., M&uuml;ller, R. D., Machine learning-based framework for prospectivity mapping of critical minerals [Under Review]
+Farahbakhsh, E., Maughan, J., M&uuml;ller, R. D., Enhancing data-driven discovery of critical minerals with machine learning innovations [Under Review]
