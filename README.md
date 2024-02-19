@@ -12,9 +12,7 @@ This repository provides supplementary materials for the paper entitled 'Prospec
   author = {Farahbakhsh, Ehsan and Maughan, Jack and M{\"u}ller, R. Dietmar},
   year = {2023},
   journal = {Ore Geology Reviews},
-  volume = {?},
-  number = {?},
-  pages = {?},
+  number = {105665},
   doi = {10.1016/j.oregeorev.2023.105665},
 }
 ```
