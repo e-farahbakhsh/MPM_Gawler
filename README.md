@@ -1,8 +1,22 @@
-# Gawler Craton Mineral Prospectivity Mapping
+# Mineral Prospectivity Mapping in the Gawler Craton
 
 [![DOI](https://zenodo.org/badge/510555370.svg)](https://zenodo.org/badge/latestdoi/510555370)
 
-The global demand for critical minerals is surging, yet the challenge of discovering new deposits with traditional methods casts uncertainty on future supplies. This study introduces a machine learning-based framework to address common exploration challenges, such as limited known occurrences, difficulty in selecting negative samples, and unbalanced training data. By integrating an enhanced generative adversarial network with positive and unlabelled learning, the framework aims to improve exploration efficiency. Applied to the Gawler Craton in South Australia for cobalt, chromium, and nickel exploration, the framework generates prospectivity maps with a high spatial correlation to known occurrences, identifying potential areas for future exploration. The approach outperforms traditional methods, highlighting the importance of geophysical features in locating critical minerals and suggesting a more accurate and efficient way to pinpoint prospective mining regions.
+This repository contains the notebooks and supplementary files required to reproduce the results presented in a paper by Farahbakhsh et al. in 2023. The notebook enables users to create prospectivity maps for various types of mineralization in South Australia, particularly in the Gawler Craton.
+
+## Input Files
+
+The input files include geological and geophysical data. Geological data are provided as polyline and polygon files, while geophysical data are available as points and raster layers. The polyline files contain information on faults and dykes, while the polygon files represent geological provinces and rock units. The raster layers include magnetic, gravity, radiometric, remote sensing, depth to basement, and elevation grids. Additionally, the project targets three types of mineralization: mafic-ultramafic intrusion-hosted mineralization of cobalt, chromium, and nickel.
+
+## Environment Setup
+
+To set up the necessary environment to run the MPM notebooks, use the `env.yml` file available in this repository. This file configures a Conda environment with all the dependencies required to run the notebooks.
+
+Before training the models, the user needs to run the SMOTE-GAN notebook to generate synthetic positive samples.
+
+## Output Files
+
+The final output is a GeoTIFF file that shows the probability of the targeted mineralization in South Australia or a specific area within it.
 
 ### Cite
 
