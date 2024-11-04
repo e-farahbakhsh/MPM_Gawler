@@ -2,7 +2,7 @@
 
 [![DOI](https://zenodo.org/badge/510555370.svg)](https://zenodo.org/badge/latestdoi/510555370)
 
-This repository contains the notebooks and supplementary files required to reproduce the results presented in a paper by Farahbakhsh et al. in 2023. The notebook enables users to create prospectivity maps for various types of mineralization in South Australia, particularly in the Gawler Craton.
+This repository contains the notebooks and supplementary files required to reproduce the results presented in a paper by Farahbakhsh et al. in 2023. The notebook enables users to create prospectivity maps for various types of mineralisation in South Australia, particularly in the Gawler Craton.
 
 ## Input Files
 
