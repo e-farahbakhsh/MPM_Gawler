@@ -6,7 +6,7 @@ This repository contains the notebooks and supplementary files required to repro
 
 ## Input Files
 
-The input files include geological and geophysical data. Geological data are provided as polyline and polygon files, while geophysical data are available as points and raster layers. The polyline files contain information on faults and dykes, while the polygon files represent geological provinces and rock units. The raster layers include magnetic, gravity, radiometric, remote sensing, depth to basement, and elevation grids.
+The input files include geological and geophysical data, which can be downloaded via this [link](https://doi.org/10.5281/zenodo.7388657). Geological data are provided as polyline and polygon files, while geophysical data are available as points and raster layers. The polyline files contain information on faults and dykes, while the polygon files represent geological provinces and rock units. The raster layers include magnetic, gravity, radiometric, remote sensing, depth to basement, and elevation grids.
 
 ## Environment Setup
 
